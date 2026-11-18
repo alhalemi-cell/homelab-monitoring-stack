@@ -1,14 +1,14 @@
-IT Infrastructure Monitoring Homelab
+# IT Infrastructure Monitoring Homelab
 
 A hands-on IT infrastructure monitoring project built using Docker, Prometheus, Grafana, Node Exporter, and Windows Exporter.
 
-Project Overview
+## Project Overview
 
 Built a containerized monitoring environment to collect, visualize, and analyze system performance metrics from a Windows computer and Docker's Linux environment.
 
 The goal of this project is to develop practical skills in system administration, infrastructure monitoring, troubleshooting, and IT operations.
 
-Technologies Used
+## Technologies Used
 
 - **Docker & Docker Compose** — Container deployment and management
 - **Prometheus** — Metrics collection and monitoring
@@ -18,7 +18,7 @@ Technologies Used
 - **PowerShell** — Service verification and troubleshooting
 - **YAML** — Monitoring configuration
 
-Monitoring Architecture
+## Monitoring Architecture
 
 ```text
 Windows Computer

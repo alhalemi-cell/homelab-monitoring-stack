@@ -89,3 +89,23 @@ docker compose up -d
 ## Skills Demonstrated
 
 Infrastructure Monitoring | Docker | Prometheus | Grafana | Windows Administration | Linux Monitoring | PowerShell | Troubleshooting | PromQL
+
+## Monitoring Dashboard Screenshots
+
+### Windows System Monitoring
+
+Custom Grafana dashboard displaying real-time Windows CPU utilization, RAM usage, and C: drive storage consumption.
+
+![Windows System Monitoring](screenshots/windows-dashboard.png)
+
+### Prometheus Target Health
+
+Prometheus successfully collecting metrics from three monitoring targets: Windows Exporter, Node Exporter, and Prometheus itself.
+
+![Prometheus Targets](screenshots/prometheus-targets.png)
+
+### Linux Environment Monitoring
+
+Node Exporter Full dashboard displaying CPU, memory, disk, network, and system performance metrics from Docker's Linux environment.
+
+![Linux Monitoring Dashboard](screenshots/linux-dashboard.png)
